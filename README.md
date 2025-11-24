@@ -30,7 +30,7 @@ Visualize and manage all your scheduled posts in a calendar format.
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisitesfdafdafda
 
 - Node.js 18+ installed
 - OpenAI API key
